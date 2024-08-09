@@ -13,7 +13,7 @@ Follow the steps below to install the necessary dependencies and set up the proj
 Clone this repository to your local machine:
 
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/The-Snobe/backend-crud-nodejs.git
 2. Navigate to the Project Directory
 Go to the project directory:
 
